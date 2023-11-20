@@ -1,0 +1,9 @@
+[submodule "SolidityBootcampQ42023_week4_backend"]
+	path = SolidityBootcampQ42023_week4_backend
+	url = https://github.com/AlexGabrielANDREI/SolidityBootcampQ42023_week4_backend.git
+[submodule "SolidityBootcampQ42023_week4_frontend"]
+	path = SolidityBootcampQ42023_week4_frontend
+	url = https://github.com/AlexGabrielANDREI/SolidityBootcampQ42023_week4_frontend.git
+[submodule "SolidityBootcampQ42023_week4_blockchain"]
+	path = SolidityBootcampQ42023_week4_blockchain
+	url = https://github.com/javiermontescarrera/SolidityBootcampQ42023_week4_blockchain.git
