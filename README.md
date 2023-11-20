@@ -1,7 +1,7 @@
 
 # SolidityBootcampQ42023_week4 Team 9
 
-Voting dApp build by Team 9
+Voting dApp by Team 9
 
 
 ### Implemented functionalities:
